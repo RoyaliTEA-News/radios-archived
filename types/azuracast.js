@@ -1,3 +1,9 @@
 import axios from 'axios'
 
-export default (radio) => {}
+module.exports = async (radio) => {
+  const { data: stats } = await axios(radio.api.endpoint)
+  return {
+    radio,
+    stats
+  }
+}
