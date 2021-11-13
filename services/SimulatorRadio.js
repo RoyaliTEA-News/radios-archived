@@ -7,7 +7,7 @@ module.exports = () => {
     "logo": "https://simulatorradio.com/avatars/placeholder.png",
     "id": "3eb3df1b-6ad7-440e-8858-d201c9a07390",
     "tagline": "Simulator Radio is a community based radio station for Simulator Games.",
-    "tags": [tags.pop, tags.community, tags.gaming, tags.simulation],
+    "tags": [tags.simulation, tags.gaming, tags.pop, tags.community],
     "language": langs.where('1', 'en'),
     "website": "https://simulatorradio.com",
     "sources": [{
