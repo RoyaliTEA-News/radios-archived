@@ -21,6 +21,7 @@ module.exports = () => {
       "presenter": "onair.name",
       "song": "song.title",
       "artist": "song.artist",
+      "art": "song.art",
       "listeners": "listeners"
     }
   }
