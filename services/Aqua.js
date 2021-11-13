@@ -11,6 +11,7 @@ module.exports = () => {
     "language": langs.where('1', 'en'),
     "website": "https://itsaqua.net",
     "discord": "https://discord.gg/JmXDSdT",
+    "premid": "Aqua",
     "sources": [{
       "name": "Aqua",
       "url": "live.itsaqua.net",
