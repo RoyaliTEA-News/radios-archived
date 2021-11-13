@@ -18,9 +18,10 @@ module.exports = () => {
     "api": {
       "type": "custom",
       "endpoint": "https://upbeatradio.net/api/v1/stats",
-      "song": "data.song.title",
-      "artist": "data.song.artist",
-      "listeners": "data.listeners"
+      "presenter": "onair.name",
+      "song": "song.title",
+      "artist": "song.artist",
+      "listeners": "listeners"
     }
   }
 }
