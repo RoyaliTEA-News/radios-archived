@@ -3,7 +3,8 @@ const tags = require('../tags'),
 
 module.exports = () => {
   return {
-    "name": "FreshBeatRadio",
+    "name": "FreshBeat",
+    "aliases": ["FreshBeat Radio", "FB", "FBR"],
     "logo": "https://freshbeatradio.uk/images/logo.png",
     "id": "f3540611-0f7c-4f99-a3ec-e6775d87c030",
     "tagline": "An online radio community that plays a huge variety of the freshest & best hits.",
