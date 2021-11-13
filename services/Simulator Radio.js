@@ -3,7 +3,7 @@ const tags = require('../tags'),
 
 module.exports = () => {
   return {
-    "name": "SimulatorRadio",
+    "name": "Simulator Radio",
     "logo": "https://simulatorradio.com/avatars/placeholder.png",
     "id": "3eb3df1b-6ad7-440e-8858-d201c9a07390",
     "tagline": "Simulator Radio is a community based radio station for Simulator Games.",
