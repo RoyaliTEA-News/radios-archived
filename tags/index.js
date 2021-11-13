@@ -32,5 +32,6 @@ module.exports = {
   charts: 'Charts',
   community: 'Community',
   podcast: 'Podcast',
-  talkshow: 'Talk Show'
+  talkshow: 'Talk Show',
+  simulation: 'Simulation'
 }
