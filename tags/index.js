@@ -1,4 +1,4 @@
-export default {
+module.exports = {
   pop: 'Pop',
   jazz: 'Jazz',
   hiphop: 'Hip-Hop',
