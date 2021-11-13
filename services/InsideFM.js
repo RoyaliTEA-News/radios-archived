@@ -19,7 +19,8 @@ export default () => {
       {
         "name": "128kbps AAC+",
         "url": "https://zeus.miradio.pro/radio/8110/medium",
-        "bitrate": 128
+        "bitrate": 128,
+        "default": true
       },
       {
         "name": "320kbps AAC+",
