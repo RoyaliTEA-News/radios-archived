@@ -7,7 +7,7 @@ module.exports = () => {
     "logo": "https://insidefm.cl/images/branding/favicon.png",
     "id": "58a18dce-b062-4c85-9f81-9d485242d28f",
     "tagline": "Activate con la Música!",
-    "tags": [genres.pop, genres.news],
+    "tags": [tags.pop, tags.news],
     "language": langs.where('1', 'es'),
     "website": "https://insidefm.cl",
     "sources": [
