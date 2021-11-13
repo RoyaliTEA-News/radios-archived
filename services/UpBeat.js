@@ -11,6 +11,7 @@ module.exports = () => {
     "tags": [tags.pop, tags.gaming, tags.community, tags.news],
     "language": langs.where('1', 'en'),
     "website": "https://upbeatradio.net",
+    "discord": "https://discord.gg/tyc7qtm",
     "sources": [{
       "name": "UpBeat",
       "url": "https://live.upbeat.pw",
