@@ -6,7 +6,7 @@ module.exports = () => {
     "name": "Beats",
     "logo": "https://panel.itsbeats.net/avatars/defaultV1.jpg",
     "id": "5f9004f0-c833-4849-bdce-1e23e010256b",
-    "tagline": "Beats is an online radio community that aims to provide the best online entertainment and the biggest beats from around the globe. Beats was first established back in 2019 with the return of it coming in 2021 with a fresh Ownership team ready to rock the radio community.",
+    "tagline": "Beats is an online radio community that aims to provide the best online entertainment.",
     "tags": [tags.pop, tags.gaming, tags.community, tags.news],
     "language": langs.where('1', 'en'),
     "website": "https://itsbeats.net",
