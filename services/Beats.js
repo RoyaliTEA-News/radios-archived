@@ -6,8 +6,8 @@ module.exports = () => {
     "name": "Beats",
     "logo": "https://panel.itsbeats.net/avatars/defaultV1.jpg",
     "id": "5f9004f0-c833-4849-bdce-1e23e010256b",
-    "tagline": "Beats is an online radio community that aims to provide the best online entertainment.",
-    "tags": [tags.pop, tags.gaming, tags.community, tags.news],
+    "tagline": "An online radio community that aims to provide the best online entertainment.",
+    "tags": [tags.pop, tags.community],
     "language": langs.where('1', 'en'),
     "website": "https://itsbeats.net",
     "sources": [{
@@ -16,12 +16,8 @@ module.exports = () => {
       "default": true
     }],
     "api": {
-      "type": "custom",
-      "endpoint": "https://upbeatradio.net/api/v1/stats",
-      "presenter": "presenter.name",
-      "song": "stats.song.title",
-      "artist": "stats.song.artist",
-      "listeners": "stats.song.listeners"
+      "type": "azuracast",
+      "endpoint": "https://radio.beats.xonos.gg/api/nowplaying/1"
     }
   }
 }
