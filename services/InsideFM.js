@@ -1,4 +1,4 @@
-const genres = require('../genres'),
+const tags = require('../tags'),
       langs = require('langs')
 
 export default () => {
