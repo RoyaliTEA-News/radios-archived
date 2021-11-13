@@ -17,7 +17,7 @@ module.exports = () => {
     }],
     "api": {
       "type": "azuracast",
-      "endpoint": "https://oreo.truckstopradio.co.uk/api/nowplaying"
+      "endpoint": "https://oreo.truckstopradio.co.uk/api/nowplaying/1"
     }
   }
 }
