@@ -5,6 +5,7 @@ module.exports = () => {
   return {
     "name": "Simulator Radio",
     "logo": "https://simulatorradio.com/avatars/placeholder.png",
+    "aliases": ["SimulatorRadio", "sr"],
     "id": "3eb3df1b-6ad7-440e-8858-d201c9a07390",
     "tagline": "Simulator Radio is a community based radio station for Simulator Games.",
     "tags": [tags.simulation, tags.gaming, tags.pop, tags.community],
