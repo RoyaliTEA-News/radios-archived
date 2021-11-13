@@ -1,7 +1,7 @@
 const tags = require('../tags'),
       langs = require('langs')
 
-export default () => {
+module.exports = () => {
   return {
     "name": "UpBeat",
     "logo": "https://upbeatradio.net/staff/_assets/_avatarImages/default/default.png",
