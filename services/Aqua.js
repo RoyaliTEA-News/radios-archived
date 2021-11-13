@@ -10,6 +10,7 @@ module.exports = () => {
     "tags": [tags.pop, tags.community],
     "language": langs.where('1', 'en'),
     "website": "https://itsaqua.net",
+    "discord": "https://discord.gg/JmXDSdT",
     "sources": [{
       "name": "Aqua",
       "url": "live.itsaqua.net",
