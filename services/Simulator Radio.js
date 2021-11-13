@@ -1,5 +1,5 @@
 const tags = require('../tags'),
-      langs = require('langs')
+  langs = require('langs');
 
 module.exports = () => {
   return {
@@ -16,7 +16,7 @@ module.exports = () => {
       "url": "https://simulatorradio.stream/stream",
       "default": true
     }],
-   "api": {
+    "api": {
       "type": "custom",
       "endpoint": "https://apiv2.simulatorradio.com/metadata/combined",
       "presenter": "djs.now.displayname",

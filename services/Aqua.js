@@ -1,5 +1,5 @@
 const tags = require('../tags'),
-      langs = require('langs')
+  langs = require('langs');
 
 module.exports = () => {
   return {
@@ -15,7 +15,7 @@ module.exports = () => {
       "url": "live.itsaqua.net",
       "default": true
     }],
-   "api": {
+    "api": {
       "type": "custom",
       "endpoint": "https://api.itsaqua.net/stats",
       "presenter": "presenter.name",
