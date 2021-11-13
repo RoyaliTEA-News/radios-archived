@@ -11,9 +11,3 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v2
-      
-      - name: Run Jest
-        uses: stefanoeb/jest-action@1.0.4
