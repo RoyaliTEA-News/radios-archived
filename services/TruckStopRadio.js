@@ -11,6 +11,7 @@ module.exports = () => {
     "tags": [tags.simulation, tags.community, tags.pop, tags.gaming],
     "language": langs.where('1', 'en'),
     "website": "https://truckstopradio.co.uk",
+    "discord": "https://discord.gg/c6KU3Cc"
     "sources": [{
       "name": "TruckStopRadio",
       "url": "https://oreo.truckstopradio.co.uk/radio/8000/radio.mp3",
