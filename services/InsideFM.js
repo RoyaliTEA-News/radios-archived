@@ -10,7 +10,7 @@ export default () => {
     "tags": [genres.pop, genres.news],
     "language": langs.where('1', 'es'),
     "website": "https://insidefm.cl",
-    "sources": [[
+    "sources": [
       {
         "name": "64kbps AAC+",
         "url": "https://zeus.miradio.pro/radio/8110/low",
@@ -27,7 +27,7 @@ export default () => {
         "url": "https://zeus.miradio.pro/radio/8110/high",
         "bitrate": 320
       }
-    ]],
+    ],
     "api": {
       "type": "azuracast",
       "endpoint": "https://zeus.miradio.pro/api/nowplaying/insidefm"
