@@ -1,4 +1,5 @@
-const genres = require('../genres')
+const genres = require('../genres'),
+      langs = require('langs')
 
 export default () => {
   return {
@@ -7,7 +8,7 @@ export default () => {
     "id": "f738f1f9-6de8-4b03-9889-c5b795ff6c10",
     "tagline": "UpBeat is a community powered online radio, providing 24/7 ad-free radio entertainment.",
     "genres": [genres.pop, genres.gaming, genres.community],
-    "language": "en_GB",
+    "language": langs.where('1', 'en'),
     "website": "https://upbeatradio.net",
     "sources": [{
       "name": "UpBeat",
