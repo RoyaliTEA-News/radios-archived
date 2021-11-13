@@ -5,6 +5,7 @@ module.exports = () => {
   return {
     "name": "UpBeat",
     "logo": "https://upbeatradio.net/staff/_assets/_avatarImages/default/default.png",
+    "aliases": ["ub"],
     "id": "f738f1f9-6de8-4b03-9889-c5b795ff6c10",
     "tagline": "UpBeat is a community powered online radio, providing 24/7 ad-free radio entertainment.",
     "tags": [tags.pop, tags.gaming, tags.community, tags.news],
