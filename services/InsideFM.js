@@ -1,7 +1,7 @@
 const tags = require('../tags'),
       langs = require('langs')
 
-export default () => {
+module.exports = () => {
   return {
     "name": "InsideFM",
     "logo": "https://insidefm.cl/images/branding/favicon.png",
