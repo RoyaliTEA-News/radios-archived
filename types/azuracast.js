@@ -1,9 +1,9 @@
 import axios from 'axios'
 
 module.exports = async (radio) => {
-  const { data: stats } = await axios(radio.api.endpoint);
+  const { data: stats } = await axios(radio.api.endpoint)
   return {
-    ...radio,
+    radio,
     stats
-   };
+  }
 }
