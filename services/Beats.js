@@ -16,8 +16,12 @@ module.exports = () => {
       "default": true
     }],
     "api": {
-      "type": "azuracast",
-      "endpoint": "https://radio.beats.xonos.gg/api/nowplaying/1"
+      "type": "custom",
+      "endpoint": "https://panel.itsbeats.net/api/stats",
+      "presenter": "onAir.presenter.name",
+      "song": "song.track",
+      "artist": "song.artist",
+      "listeners": "onAir.listeners.total"
     }
   }
 }
