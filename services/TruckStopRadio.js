@@ -6,7 +6,7 @@ module.exports = () => {
     "name": "TruckStopRadio",
     "logo": "https://truckstopradio.co.uk/img/default-avatar.png",
     "aliases": ["Truck Stop Radio", "TSR"],
-    "id": "sdgdsh-44yhfdhd-3534gfdh-23tgdrhd",
+    "id": "7e714a82-6f00-4016-9cc4-7df34e5044b9",
     "tagline": "TruckStopRadio is a fully community-ran and online radio station for the Simulation community.",
     "tags": [tags.simulation, tags.community, tags.pop, tags.gaming],
     "language": langs.where('1', 'en'),
