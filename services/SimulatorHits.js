@@ -6,7 +6,7 @@ module.exports = () => {
     "name": "SimulatorHits",
     "logo": "https://resizeimg.shirkalab.io/r/400x400/f/jpg/ext/skill/images/I/610mYG1EScL.png",
     "aliases": ["SimulatorHits", "sh"],
-    "id": "3eb3df1b-6ad7-440e-8858-d201c9a07390",
+    "id": "c83980b4-b94b-4ae0-88ce-530becee3b02",
     "tagline": "SimulatorHits is a community-run, non-profit station, being supported mainly by the community of Farming Simulator 2019.",
     "tags": [tags.simulation, tags.gaming, tags.pop, tags.community],
     "language": langs.where('1', 'en'),
