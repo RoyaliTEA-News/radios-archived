@@ -11,6 +11,8 @@ module.exports = () => {
     "tags": [tags.simulation, tags.gaming, tags.pop, tags.community],
     "language": langs.where('1', 'en'),
     "website": "https://simulatorradio.com",
+    "discord": "https://discord.gg/E27Ehfn",
+    "premid": "Simulator Radio",
     "sources": [{
       "name": "SimulatorRadio",
       "url": "https://simulatorradio.stream/stream",
