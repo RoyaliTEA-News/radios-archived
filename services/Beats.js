@@ -10,6 +10,8 @@ module.exports = () => {
     "tags": [tags.pop, tags.community],
     "language": langs.where('1', 'en'),
     "website": "https://itsbeats.net",
+    "discord": "https://discord.gg/DRYFfSnn5b",
+    "premid": "Beats",
     "sources": [{
       "name": "Beats",
       "url": "https://radio.beats.xonos.gg/radio/8000/radio.mp3",
