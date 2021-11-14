@@ -5,7 +5,7 @@ module.exports = () => {
   return {
     "name": "TruckSimFM",
     "aliases": [],
-    "logo": "https://pbs.twimg.com/profile_images/1422987874409099265/PrUIwGVl_400x400.jpg",
+    "logo": "https://trucksim.fm/assets/img/avatars/autodj.jpg?2",
     "id": "930687c4-9275-4697-a8cf-1aeaa72477ba",
     "tagline": "The Beat Of Simulation.",
     "tags": [tags.pop, tags.community, tags.simulation],
