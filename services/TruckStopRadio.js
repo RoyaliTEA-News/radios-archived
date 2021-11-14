@@ -1,12 +1,12 @@
 const tags = require('../tags'),
-  langs = require('langs');
+  langs = require('langs')
 
 module.exports = () => {
   return {
     "name": "TruckStopRadio",
     "logo": "https://truckstopradio.co.uk/img/default-avatar.png",
     "aliases": ["Truck Stop Radio", "TSR"],
-    "id": "5f9004f0-c833-4849-bdce-1e23e010256b",
+    "id": "sdgdsh-44yhfdhd-3534gfdh-23tgdrhd",
     "tagline": "TruckStopRadio is a fully community-ran and online radio station for the Simulation community.",
     "tags": [tags.simulation, tags.community, tags.pop, tags.gaming],
     "language": langs.where('1', 'en'),

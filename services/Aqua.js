@@ -1,5 +1,5 @@
 const tags = require('../tags'),
-  langs = require('langs');
+  langs = require('langs')
 
 module.exports = () => {
   return {
