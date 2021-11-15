@@ -6,7 +6,7 @@ module.exports = () => {
     "name": "Fresh",
     "aliases": ["freshradio"],
     "logo": "https://freshradio.pw/images/FRESH%20NEW.png",
-    "id": "13d4a520-3329-4afb-9292-c9356c67b7cf",
+    "id": "66e557da-b37b-45d9-a20f-f0c0e6467184",
     "tagline": "Fresh is a thriving internet station playing the latest and greatest hits.",
     "tags": [tags.pop, tags.community],
     "language": langs.where('1', 'en'),
