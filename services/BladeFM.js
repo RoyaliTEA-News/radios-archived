@@ -4,7 +4,7 @@ const tags = require('../tags'),
 module.exports = () => {
   return {
     "name": "BladeFM",
-    "logo": "https://bladefm.com.au/images/logo.png",
+    "logo": "https://i.imgur.com/xZerszk.png",
     "aliases": ["Blade FM", "blade", "bfm"],
     "id": "fc12805a-05b8-4313-b0e3-807a6d7068a6",
     "tagline": "Playing the top hits and throwbacks 24/7 in Adelaide!",

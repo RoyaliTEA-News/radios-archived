@@ -5,7 +5,7 @@ module.exports = () => {
   return {
     "name": "Bunker",
     "aliases": [],
-    "logo": "https://pbs.twimg.com/profile_images/1422987874409099265/PrUIwGVl_400x400.jpg",
+    "logo": "https://i.imgur.com/BZlRjxb.jpg",
     "id": "6886b2c8-3f11-4e17-a116-e9b008f7fe19",
     "tagline": "Your #1 dance and electronic music station, Bunker.",
     "tags": [tags.pop, tags.community],

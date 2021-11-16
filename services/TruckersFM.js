@@ -4,7 +4,7 @@ const tags = require('../tags'),
 module.exports = () => {
   return {
     "name": "TruckersFM",
-    "logo": "https://truckersfm.s3.fr-par.scw.cloud/static/tfm-2020-adj.png",
+    "logo": "https://i.imgur.com/AXcYBF8.png",
     "aliases": ["Truckers FM", "TFM"],
     "id": "6a6079a1-198f-49b5-a989-cc1d011df4a9",
     "tagline": "TruckersFM is a community radio station that is dedicated to the Truck Sim Community!",

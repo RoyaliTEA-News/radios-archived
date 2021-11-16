@@ -5,7 +5,7 @@ module.exports = () => {
   return {
     "name": "Harmony",
     "aliases": [],
-    "logo": "https://harmony.sirv.com/default.png",
+    "logo": "https://i.imgur.com/4OOpwxt.png",
     "id": "5b4a47f4-be40-45d9-b534-2fbd2dca388e",
     "tagline": "Playing the best hits, 24/7!",
     "tags": [tags.pop, tags.community],

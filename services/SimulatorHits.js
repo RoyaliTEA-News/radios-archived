@@ -4,7 +4,7 @@ const tags = require('../tags'),
 module.exports = () => {
   return {
     "name": "SimulatorHits",
-    "logo": "https://resizeimg.shirkalab.io/r/400x400/f/jpg/ext/skill/images/I/610mYG1EScL.png",
+    "logo": "https://i.imgur.com/rVAJCGu.jpg",
     "aliases": ["SimulatorHits", "sh"],
     "id": "c83980b4-b94b-4ae0-88ce-530becee3b02",
     "tagline": "SimulatorHits is a community-run, non-profit station, being supported mainly by the community of Farming Simulator 2019.",

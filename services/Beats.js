@@ -4,7 +4,7 @@ const tags = require('../tags'),
 module.exports = () => {
   return {
     "name": "Beats",
-    "logo": "https://panel.itsbeats.net/avatars/defaultV1.jpg",
+    "logo": "https://i.imgur.com/Q3d3BRy.jpg",
     "id": "5f9004f0-c833-4849-bdce-1e23e010256b",
     "tagline": "An online radio community that aims to provide the best online entertainment.",
     "tags": [tags.pop, tags.community],
