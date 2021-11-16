@@ -11,7 +11,8 @@ module.exports = () => {
     "tags": [tags.pop, tags.community, tags.simulation],
     "language": langs.where('1', 'en'),
     "website": "https://trucksim.fm/",
-    "discord": "https://discord.com/invite/zcmN8cF",
+    "discord": "https://discord.gg/zcmN8cF",
+    "premid": "TruckSimFM",
     "sources": [{
       "name": "TruckSimFM",
       "url": "https://live.trucksim.fm/",

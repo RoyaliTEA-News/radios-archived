@@ -11,7 +11,7 @@ module.exports = () => {
     "tags": [tags.pop, tags.community],
     "language": langs.where('1', 'en'),
     "website": "https://bunker.dance/",
-    "discord": "https://discord.com/invite/7egN2ZU5jD",
+    "discord": "https://discord.gg/7egN2ZU5jD",
     "sources": [{
       "name": "Bunker",
       "url": "https://radio.bunker.dance/radio/8000/128.mp3",
