@@ -5,7 +5,7 @@ module.exports = () => {
   return {
     "name": "Beats",
     "logo": "https://i.imgur.com/Q3d3BRy.jpg",
-    "id": "5f9004f0-c833-4849-bdce-1e23e010256b",
+    "id": "41ed3b7d-d91c-475e-83e9-2ead7a62f39b",
     "tagline": "An online radio community that aims to provide the best online entertainment.",
     "tags": [tags.pop, tags.community],
     "language": langs.where('1', 'en'),
