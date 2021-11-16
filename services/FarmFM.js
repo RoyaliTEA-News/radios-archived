@@ -11,6 +11,7 @@ module.exports = () => {
     "tags": [tags.pop, tags.community, tags.simulation, tags.gaming],
     "language": langs.where('1', 'en'),
     "website": "https://farm-fm.com/",
+    "discord": "https://discord.gg/NRDPgvcSfE",
     "sources": [{
       "name": "FarmFM",
       "url": "https://azura.farm-fm.com/radio/8000/radio.mp3",
