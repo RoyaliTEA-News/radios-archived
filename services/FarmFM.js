@@ -4,7 +4,7 @@ const tags = require('../tags'),
 module.exports = () => {
   return {
     "name": "FarmFM",
-    "logo": "https://cdn.discordapp.com/icons/829851298198716457/458bd39242ba908978d573f2504deec6.webp?size=512",
+    "logo": "https://i.imgur.com/oRL8G9l.png",
     "aliases": ["Farm FM", "farm", "ffm"],
     "id": "8d9c829f-1206-490e-a07f-dfd9fff0f6fd",
     "tagline": "Playing the latest hits, 24/7!",
