@@ -4,8 +4,8 @@ const tags = require('../tags'),
 module.exports = () => {
   return {
     "name": "Beats",
-    "logo": "https://panel.itsbeats.net/avatars/defaultV1.jpg",
-    "id": "92d2483f-a99f-44ec-873e-214ac915aebe",
+    "logo": "https://i.imgur.com/Q3d3BRy.jpg",
+    "id": "41ed3b7d-d91c-475e-83e9-2ead7a62f39b",
     "tagline": "An online radio community that aims to provide the best online entertainment.",
     "tags": [tags.pop, tags.community],
     "language": langs.where('1', 'en'),

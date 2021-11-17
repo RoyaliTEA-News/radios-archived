@@ -4,7 +4,7 @@ const tags = require('../tags'),
 module.exports = () => {
   return {
     "name": "InsideFM",
-    "logo": "https://insidefm.cl/images/branding/favicon.png",
+    "logo": "https://i.imgur.com/95miZyw.png",
     "id": "58a18dce-b062-4c85-9f81-9d485242d28f",
     "tagline": "Activate con la Música!",
     "tags": [tags.pop, tags.news],

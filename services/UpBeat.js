@@ -4,7 +4,7 @@ const tags = require('../tags'),
 module.exports = () => {
   return {
     "name": "UpBeat",
-    "logo": "https://upbeatradio.net/staff/_assets/_avatarImages/default/default.png",
+    "logo": "https://i.imgur.com/p6LZAQJ.png",
     "aliases": ["UpBeat Radio", "UpBeatRadio", "ub"],
     "id": "f738f1f9-6de8-4b03-9889-c5b795ff6c10",
     "tagline": "UpBeat is a community powered online radio, providing 24/7 ad-free radio entertainment.",

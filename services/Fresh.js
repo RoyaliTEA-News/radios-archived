@@ -5,7 +5,7 @@ module.exports = () => {
   return {
     "name": "Fresh",
     "aliases": ["freshradio"],
-    "logo": "https://freshradio.pw/images/FRESH%20NEW.png",
+    "logo": "https://i.imgur.com/uh0vch5.png",
     "id": "66e557da-b37b-45d9-a20f-f0c0e6467184",
     "tagline": "Fresh is a thriving internet station playing the latest and greatest hits.",
     "tags": [tags.pop, tags.community],
