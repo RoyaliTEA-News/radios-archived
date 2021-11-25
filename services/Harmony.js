@@ -12,6 +12,7 @@ module.exports = () => {
     "language": langs.where('1', 'en'),
     "website": "https://weareharmony.net",
     "discord": "https://discord.gg/mUMVCa5K38",
+    "premid": "Harmony",
     "sources": [{
       "name": "Harmony",
       "url": "https://derrick.xonosho.st/radio/8000/radio.mp3",
