@@ -6,12 +6,12 @@ module.exports = () => {
     "name": "CubeFM",
     "logo": "https://i.imgur.com/NwepvK0.png",
     "id": "64e1740a-2d57-4cd8-a52b-b44610887f5d",
-    "tagline": "Beat the moment.",
+    "tagline": "Beat the moment",
     "tags": [tags.pop, tags.community],
-    "language": langs.where('1', 'nl'),
+    "language": langs.where('1', 'en'),
     "website": "https://cubefm.nl",
     "sources": [{
-      "name": "Aqua",
+      "name": "320kbps MP3",
       "url": "https://server.cubefm.nl/radio/8000/stream",
       "default": true
     }],
