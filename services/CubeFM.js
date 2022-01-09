@@ -5,7 +5,7 @@ module.exports = () => {
   return {
     "name": "CubeFM",
     "logo": "https://i.imgur.com/NwepvK0.png",
-    "id": "64e1740a-2d57-4cd8-a52b-b44610887f5d",
+    "id": "c4b8d973-a926-412c-84cd-9c91641c8886",
     "tagline": "Beat the moment",
     "tags": [tags.pop, tags.community],
     "language": langs.where('1', 'en'),
