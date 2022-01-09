@@ -7,7 +7,7 @@ module.exports = () => {
     "logo": "https://i.imgur.com/NwepvK0.png",
     "id": "c4b8d973-a926-412c-84cd-9c91641c8886",
     "tagline": "Beat the moment",
-    "tags": [tags.pop, tags.community],
+    "tags": [tags.pop],
     "language": langs.where('1', 'en'),
     "website": "https://cubefm.nl",
     "sources": [{
