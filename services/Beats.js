@@ -14,7 +14,7 @@ module.exports = () => {
     "premid": "Beats",
     "sources": [{
       "name": "Beats",
-      "url": "https://radio.ea1.xyz/radio/8000/radio.mp3",
+      "url": "https://stream.itsbeats.net/radio.mp3",
       "default": true
     }],
     "api": {
